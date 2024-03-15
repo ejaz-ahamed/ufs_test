@@ -102,7 +102,7 @@ class CustomerScrollviewWidget extends StatelessWidget {
               ],
             ),
           ),
-          SizedBox(
+          const SizedBox(
             width: 16,
           ),
           Container(
